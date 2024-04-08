@@ -1,3 +1,6 @@
+## EXPERIMENT NO. : 01
+## DATE : 16.03.2024
+
 # SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
